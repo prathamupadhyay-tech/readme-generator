@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/readme-generator/static/css/main.6186ffe0.css",
+    "main.js": "/readme-generator/static/js/main.82cef7c2.js",
+    "static/js/787.53de3cf9.chunk.js": "/readme-generator/static/js/787.53de3cf9.chunk.js",
+    "index.html": "/readme-generator/index.html",
+    "main.6186ffe0.css.map": "/readme-generator/static/css/main.6186ffe0.css.map",
+    "main.82cef7c2.js.map": "/readme-generator/static/js/main.82cef7c2.js.map",
+    "787.53de3cf9.chunk.js.map": "/readme-generator/static/js/787.53de3cf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6186ffe0.css",
+    "static/js/main.82cef7c2.js"
+  ]
+}
